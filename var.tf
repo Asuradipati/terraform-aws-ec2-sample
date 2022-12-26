@@ -28,4 +28,4 @@ variable "env" {
 
 variable "subnet_id" {
       description = "subnet in which we want to launch the ec2 instances"
-}c
+}
